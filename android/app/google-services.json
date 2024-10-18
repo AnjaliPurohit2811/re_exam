@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031364853932",
+    "project_id": "re-exam-8c7de",
+    "storage_bucket": "re-exam-8c7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031364853932:android:20bea04e75372824cddf09",
+        "android_client_info": {
+          "package_name": "com.example.re_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-xaFgP3Ln0C9SVXCymx6LtE66PEt4XYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
